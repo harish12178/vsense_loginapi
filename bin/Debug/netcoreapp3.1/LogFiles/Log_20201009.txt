@@ -1,0 +1,90 @@
+09-10-2020 09:58:23 : Master/GetAllRoles : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 10:26:51 : Master/GetAllApps : -  :- Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=18594; handshake=9; 
+09-10-2020 13:51:03 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:51:03 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:51:12 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:51:12 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:52:09 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:52:09 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:52:14 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:52:14 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:56:29 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 13:56:29 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:09:01 : Master/GetSessionMasterByProject : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 14:12:18 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:12:19 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:24:27 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:24:28 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:55:05 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 14:55:05 : Auth/GetToken :- Invalid column name 'ExpiringOn'.
+Invalid column name 'Pass1'.
+Invalid column name 'Pass2'.
+Invalid column name 'Pass3'.
+Invalid column name 'TourStatus'.
+09-10-2020 15:40:09 : Master/GetSessionMasterByProject : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 18:10:25 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 18:58:48 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 20:27:07 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 20:32:50 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 20:37:53 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+09-10-2020 20:40:04 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

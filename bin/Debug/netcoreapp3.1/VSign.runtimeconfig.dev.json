@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mounika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mounika\\.nuget\\packages"
+    ]
+  }
+}

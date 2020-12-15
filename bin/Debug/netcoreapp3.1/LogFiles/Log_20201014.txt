@@ -1,0 +1,56 @@
+14-10-2020 10:54:38 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 10:54:38 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 10:54:48 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 10:54:48 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:02:48 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:02:48 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:15:29 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:15:29 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:18:59 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:18:59 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:19:04 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:19:04 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:20:41 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:20:41 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 11:27:10 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 11:27:10 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:07:50 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:07:50 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:08:40 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:08:40 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:10:20 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:10:20 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:11:50 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:11:50 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:12:05 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:12:05 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:12:43 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 14:12:43 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 14:32:35 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+14-10-2020 15:14:48 : Master/GetSessionMasterByProject : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+14-10-2020 15:42:41 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+14-10-2020 15:56:02 : AuthRepository/FindClient : -  :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+14-10-2020 16:02:46 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:02:47 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:02:59 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:02:59 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:05:45 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:05:45 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:05:56 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:05:56 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:07:33 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:07:33 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:08:19 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:08:19 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:08:55 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:08:56 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:09:09 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:09:09 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:09:11 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:09:11 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 16:38:52 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 16:38:52 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 17:09:33 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 17:09:33 : Auth/GetToken :- The user name or password is incorrect.
+14-10-2020 18:05:58 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+14-10-2020 18:05:58 : Auth/GetToken :- The user name or password is incorrect.
